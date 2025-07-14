@@ -36,7 +36,7 @@ def list_expenses_for_category(category):
             rows = list(reader)
 
         if not rows:
-            print("No hay registros.")
+            print("There are no records.")
             return
 
         table = [[row['id'], row['date'], row['description'], row['category'], f"${row['amount']}"] for row in rows if row['category'].lower() == category.lower()]
