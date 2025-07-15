@@ -27,7 +27,7 @@ All data is stored in a local `expenses.csv` file.
 ### 🔧 Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/expense-cli-manager.git](https://github.com/luchosar13/expense-tracker.git)
+git clone https://github.com/luchosar13/expense-tracker.git
 cd expense-cli-manager
 
 
