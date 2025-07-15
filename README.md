@@ -30,6 +30,9 @@ All data is stored in a local `expenses.csv` file.
 git clone https://github.com/luchosar13/expense-tracker.git
 cd expense-tracker
 ```
+### 🕹 Use the commands
+
+
 ---
 
 ## ✅ Validations
@@ -49,4 +52,15 @@ The application includes several validations to ensure data consistency:
 - **Empty CSV Handling**: The program can handle the case where no expenses have been added yet.
 
 ---
+
+## 🧪 Use Cases
+
+Some practical use cases of this CLI tool:
+
+- 📈 **Track Personal Spending**: Log all your daily or weekly expenses via terminal.
+- 📁 **Organize by Category**: View spending patterns like how much you spent on groceries, entertainment, or travel.
+- 🗓️ **Monthly Budgets**: Use the summary command to see monthly breakdowns of your expenses.
+- 🔁 **Automate Logging**: Integrate the CLI into scripts to automatically log recurring expenses.
+- 🧹 **Clean and Maintain Data**: Easily update or delete incorrect entries by referencing the expense ID.
+
 
