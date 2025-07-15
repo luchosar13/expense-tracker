@@ -46,7 +46,10 @@ python expense-tracker.py summary
 
 python expense-tracker.py summary --month 8
 ```
-
+For more information:
+```bash
+python expense-tracker.py --help
+```
 ---
 
 ## ✅ Validations
@@ -74,7 +77,6 @@ Some practical use cases of this CLI tool:
 - 📈 **Track Personal Spending**: Log all your daily or weekly expenses via terminal.
 - 📁 **Organize by Category**: View spending patterns like how much you spent on groceries, entertainment, or travel.
 - 🗓️ **Monthly Budgets**: Use the summary command to see monthly breakdowns of your expenses.
-- 🔁 **Automate Logging**: Integrate the CLI into scripts to automatically log recurring expenses.
 - 🧹 **Clean and Maintain Data**: Easily update or delete incorrect entries by referencing the expense ID.
 
 
