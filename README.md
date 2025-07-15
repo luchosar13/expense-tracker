@@ -1,6 +1,6 @@
 # 💰 Expense Tracker
 
-This project is based on an example from [roadmap.sh](https://roadmap.sh/projects/expense-tracker), designed to practice file handling, Python modules, and building Command Line Interfaces (CLI).
+This project is based on an example from [https://roadmap.sh/projects/expense-tracker](https://roadmap.sh/projects/expense-tracker), designed to practice file handling, Python modules, and building Command Line Interfaces (CLI).
 
 ## 📌 Description
 
