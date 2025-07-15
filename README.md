@@ -31,7 +31,21 @@ git clone https://github.com/luchosar13/expense-tracker.git
 cd expense-tracker
 ```
 ### 🕹 Use the commands
+```bash
+python expense-tracker.py add --description "Lunch" --amount 20
 
+python expense-tracker.py add --description "Dinner" --amount 10
+
+python expense-tracker.py list
+
+python expense-tracker.py summary
+
+python expense-tracker.py delete --id 2
+
+python expense-tracker.py summary
+
+python expense-tracker.py summary --month 8
+```
 
 ---
 
